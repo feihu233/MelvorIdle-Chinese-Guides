@@ -16,7 +16,7 @@
 
 ## 目录
 ### 新人上路 Intro
-* [购买建议&平台差异&缓存策略](/Articles/Intro/购买建议&平台差异&缓存策略.md)
+* [购买建议&平台差异&缓存策略](/Articles/Lists/购买建议&平台差异&缓存策略.md)
 * [新人指南](/Articles/Intro/新人指南.md)
 * [FAQ](/Articles/Intro/FAQ.md)
 ### 生活技能 Non-Combat
