@@ -15,6 +15,9 @@
 * 鲜牛加速器等：只加速软件
 
 ## 目录
+### 外链
+* [英文 wiki-指南部分](https://wiki.melvoridle.com/w/Guides)
+
 ### 新人上路 Intro
 * [购买建议&平台差异&缓存策略](/Articles/Intro/购买建议&平台差异&缓存策略.md)
 * [新人指南](/Articles/Intro/新人指南.md)
