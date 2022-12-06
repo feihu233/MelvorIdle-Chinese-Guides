@@ -22,9 +22,25 @@
 * [购买建议&平台差异&缓存策略](/Articles/Intro/购买建议&平台差异&缓存策略.md)
 * [新人指南](/Articles/Intro/新人指南.md)
 * [FAQ](/Articles/Intro/FAQ.md)
-### 生活技能 Non-Combat
 
 ### 战斗技能 Combat
 * [战斗基本知识](/Articles/Combat/战斗基本知识.md)
 * [战斗经验&战斗等级](/Articles/Combat/战斗经验&战斗等级.md)
 * [战斗数据计算](/Articles/Combat/战斗数据计算.md)
+
+### 非战斗 Non-Combat
+
+#### 非战斗技能指南
+* [伐木技能指南](/Articles/Non-Combat/伐木技能指南.md)
+* [生火技能指南](/Articles/Non-Combat/生火技能指南.md)
+#### 城镇 Township
+* T11 代表信仰选择 Terran/特兰，地图选择 11
+* B11 代表信仰选择 Bane/贝恩，地图选择 11
+##### 升级配置
+* [B11-GP&XP兼得配置](/Articles/TownshipSheets/B11-GP%26XP.md)
+* [T11-GP&XP兼得配置](/Articles/TownshipSheets/T11-GP%26XP.md)
+* [T11-纯经验配置](/Articles/TownshipSheets/T11-XP.md)
+##### 毕业配置
+* [T11-毕业配置](/Articles/TownshipSheets/T11-EndGame.md)
+
+### 其它 Others
