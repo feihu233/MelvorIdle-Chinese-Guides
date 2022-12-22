@@ -29,20 +29,29 @@
 * [战斗数据计算](/Articles/Combat/战斗数据计算.md)
 
 ### 非战斗 Non-Combat
-
 #### 非战斗技能指南
+资源产出类技能：
 * [伐木技能指南](/Articles/Non-Combat/伐木技能指南.md)
+
+资源转化类技能：
+
+BUFF类技能：
 * [生火技能指南](/Articles/Non-Combat/生火技能指南.md)
+
+被动技能：
+* 
+
 #### 城镇 Township
 * [城镇技能指南](/Articles/TownshipSheets/城镇技能指南.md)
 * [城镇速升lv.35](/Articles/TownshipSheets/城镇速升lv.35.md)
-* T11 代表信仰选择 Terran/特兰，地图选择 11
-* B11 代表信仰选择 Bane/贝恩，地图选择 11
-##### 升级配置
+
+升级配置：
+* T11表示信仰为 Terran/特兰，地图选择 11
 * [B11-GP&XP兼得配置](/Articles/TownshipSheets/B11-GP%26XP.md)
 * [T11-GP&XP兼得配置](/Articles/TownshipSheets/T11-GP%26XP.md)
 * [T11-纯经验配置](/Articles/TownshipSheets/T11-XP.md)
-##### 毕业配置
+
+毕业配置：
 * [T11-毕业配置](/Articles/TownshipSheets/T11-EndGame.md)
 
 ### 其它 Others
