@@ -34,6 +34,8 @@
 * [伐木技能指南](/Articles/Non-Combat/伐木技能指南.md)
 * [生火技能指南](/Articles/Non-Combat/生火技能指南.md)
 #### 城镇 Township
+* [城镇技能指南](/Articles/TownshipSheets/城镇技能指南.md)
+* [城镇速升lv.35](/Articles/TownshipSheets/城镇速升lv.35.md)
 * T11 代表信仰选择 Terran/特兰，地图选择 11
 * B11 代表信仰选择 Bane/贝恩，地图选择 11
 ##### 升级配置
